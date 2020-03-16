@@ -22,5 +22,8 @@ goal node (also called as heuristics) . And will go in that direction.
 If you want to track the location of pacman go to the console. 
 
 
+Look the game here   --->   "https://niladri31.github.io/ai-plays-red-and-blue-pacman-/"
+
+
 
 
